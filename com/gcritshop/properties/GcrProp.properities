@@ -1,0 +1,7 @@
+#GCRIT shop text Prop
+#Properties for Admin login
+
+#ID
+UserName=.//*[@id='contentText']/table/tbody/tr[2]/td/form/table/tbody/tr[1]/td/input
+Password = .//*[@id='contentText']/table/tbody/tr[2]/td/form/table/tbody/tr[2]/td/input
+Login=.//*[@id='tdb1']
